@@ -1,0 +1,12 @@
+{
+  "name":"London",
+  "main": {
+    "temp": 284,
+    "feels_like": 283.14,
+    "temp_min": 282.71,
+    "temp_max": 284.4,
+    "pressure": 1023,
+    "humidity": 92
+  },
+  "timezone": 0
+}
