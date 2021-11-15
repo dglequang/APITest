@@ -10,4 +10,5 @@
 - cmd: mvn clean test -Dtest=TestRunner
 
 4. View Cucumber report
-- Go to folder: src/target/cucumber-html-reports, open file: overview-features.html
+- Go to folder: src/target/cucumber-html-reports
+- Open file: overview-features.html
