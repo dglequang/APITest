@@ -12,3 +12,6 @@
 4. View Cucumber report
 - Go to folder: src/target/cucumber-html-reports
 - Open file: overview-features.html
+
+5. Change environment 
+- cmd: mvn test -Dkarate.env=sit
